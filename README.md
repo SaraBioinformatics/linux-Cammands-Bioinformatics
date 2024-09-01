@@ -1,15 +1,8 @@
-# linux-Cammands-
 
-### 1. **Repository Name:**
-   - Choose a clear and descriptive name, like `Linux-Basics-Commands`.
+#### linux-Cammands-
+ 
 
-### 2. **Repository Structure:**
-   - **README.md:** An overview of the repository, explaining its purpose and content.
-   - **commands.md:** A detailed list of Linux commands with descriptions and examples.
-   - **scripts/**: A directory containing example scripts for common tasks.
-   - **cheatsheet.pdf:** A downloadable PDF cheat sheet for quick reference.
 
-### 3. **Example Commands to Include:**
 
 #### 1. **File and Directory Management:**
    - `ls`: List directory contents.
